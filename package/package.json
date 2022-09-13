@@ -1,0 +1,27 @@
+{
+  "name": "simple-color-contrast-calculator",
+  "version": "1.0.3",
+  "description": "Simple Color Contrast Calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MayoSR/Simple-Color-Contrast-Calculator.git"
+  },
+  "keywords": [
+    "npm",
+    "calculator",
+    "contrast",
+    "color",
+    "color",
+    "contrast"
+  ],
+  "author": "MayoSR",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MayoSR/Simple-Color-Contrast-Calculator/issues"
+  },
+  "homepage": "https://github.com/MayoSR/Simple-Color-Contrast-Calculator#readme"
+}
